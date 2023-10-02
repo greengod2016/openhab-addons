@@ -36,49 +36,49 @@
     <dependency>
       <groupId>io.ktor</groupId>
       <artifactId>ktor-client-core-jvm</artifactId>
-      <version>1.6.8</version>
+      <version>2.0.0</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>io.ktor</groupId>
       <artifactId>ktor-client-cio-jvm</artifactId>
-      <version>1.6.8</version>
+      <version>2.0.0</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>io.ktor</groupId>
       <artifactId>ktor-http-jvm</artifactId>
-      <version>1.6.8</version>
+      <version>2.0.0</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>io.ktor</groupId>
       <artifactId>ktor-http-cio-jvm</artifactId>
-      <version>1.6.8</version>
+      <version>2.0.0</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>io.ktor</groupId>
       <artifactId>ktor-network-jvm</artifactId>
-      <version>1.6.8</version>
+      <version>2.0.0</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>io.ktor</groupId>
       <artifactId>ktor-utils-jvm</artifactId>
-      <version>1.6.8</version>
+      <version>2.0.0</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>io.ktor</groupId>
       <artifactId>ktor-io-jvm</artifactId>
-      <version>1.6.8</version>
+      <version>2.0.0</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>io.ktor</groupId>
       <artifactId>ktor-network-tls-jvm</artifactId>
-      <version>1.6.8</version>
+      <version>2.0.0</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
