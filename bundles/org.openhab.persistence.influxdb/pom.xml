@@ -128,7 +128,7 @@
     <dependency>
       <groupId>com.squareup.moshi</groupId>
       <artifactId>moshi</artifactId>
-      <version>1.8.0</version>
+      <version>1.15.1</version>
     </dependency>
     <!-- Okhttp & Retrofit from 2.0 are ok -->
 
