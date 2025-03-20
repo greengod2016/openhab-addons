@@ -42,7 +42,7 @@
     <dependency>
       <groupId>io.ktor</groupId>
       <artifactId>ktor-client-cio-jvm</artifactId>
-      <version>1.6.8</version>
+      <version>3.1.1</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
@@ -78,7 +78,7 @@
     <dependency>
       <groupId>io.ktor</groupId>
       <artifactId>ktor-network-tls-jvm</artifactId>
-      <version>1.6.8</version>
+      <version>3.1.1</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
