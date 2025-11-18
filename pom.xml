@@ -75,7 +75,7 @@
     <jackson.version>2.12.5</jackson.version>
     <karaf.version>4.3.7</karaf.version>
     <netty.version>4.1.72.Final</netty.version>
-    <okhttp.version>3.14.9</okhttp.version>
+    <okhttp.version>4.9.2</okhttp.version>
     <sat.version>0.13.0</sat.version>
     <spotless.version>2.0.3</spotless.version>
 
